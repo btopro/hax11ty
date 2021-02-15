@@ -4,8 +4,8 @@
    "title":"About",
    "created": "",
    "location":"/hax11ty/content/1_about/",
-   "description":"HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way:  User edits via HAX (future) or modifies files locally  hax11ty script watches for changes and rebuilds files w/ 11ty, refreshing the screen  this is compiled to a valid HAXcms data package to be used either completely static with a CDN or locally in HAXcms PHP version",
-   "text":"HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way:  User edits via HAX (future) or modifies files locally  hax11ty script watches for changes and rebuilds files w/ 11ty, refreshing the screen  this is compiled to a valid HAXcms data package to be used either completely static with a CDN or locally in HAXcms PHP version"
+   "description":"This is an example of how we can modify a website and have our setup just...work when it comes to building. This is CI in action",
+   "text":"This is an example of how we can modify a website and have our setup just...work when it comes to building. This is CI in action"
   },
   {
    "id":"Installation",
@@ -22,5 +22,13 @@
    "location":"/hax11ty/content/3_why/",
    "description":"Power of 11ty for publishing static / high SEO    Easier than 11ty, 0 config solution for publishing    Power of HAXcms for rocket fast PWA in a forever format    Extendable via web components    HAX as web editor to skip markdown    Easy github pages based publishing workflow    All files requiring change are in src/ directory    Output can plug into HAXcms SaaS and HAXcms PaaS solutionsPerformanceHigh lighthouse scores are achieved with certain constraints that will keep it from hitting max possible scores:    We keep things unbundled to allow for maximal reuse. This has an initial performance hit in the name of page to page speed.    We do this so that if you put, for example, meme-maker into a page of content, hax11ty will generate the preload statements for that element from the CDN. This is done on a page by page level.    That's it. All other mettrics we can hit the same scores as any other app!",
    "text":"Power of 11ty for publishing static / high SEO    Easier than 11ty, 0 config solution for publishing    Power of HAXcms for rocket fast PWA in a forever format    Extendable via web components    HAX as web editor to skip markdown    Easy github pages based publishing workflow    All files requiring change are in src/ directory    Output can plug into HAXcms SaaS and HAXcms PaaS solutionsPerformanceHigh lighthouse scores are achieved with certain constraints that will keep it from hitting max possible scores:    We keep things unbundled to allow for maximal reuse. This has an initial performance hit in the name of page to page speed.    We do this so that if you put, for example, meme-maker into a page of content, hax11ty will generate the preload statements for that element from the CDN. This is done on a page by page level.    That's it. All other mettrics we can hit the same scores as any other app!"
+  },
+  {
+   "id":"",
+   "title":"",
+   "created": "",
+   "location":"/hax11ty/content/4_something/",
+   "description":"This is a new fileAll HTML worksfun fun",
+   "text":"This is a new fileAll HTML worksfun fun"
   }
 ]
