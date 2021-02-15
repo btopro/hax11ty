@@ -1,5 +1,5 @@
 {
-  "id": "#852be116-52c7-ac05-735d-ca9ca60d0925",
+  "id": "#eddeda5c-aa82-8664-ce2f-d60e6a70c2ef",
   "title": "HAX11TY doc site",
   "author": "EdTechJoker",
   "description": "HAX + 11ty = bliss",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "elmsln",
-      "created": 1613427995608,
-      "updated": 1613427995608,
+      "created": 1613428018219,
+      "updated": 1613428018219,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -49,41 +49,17 @@
   },
   "items": [
     {
-      "id": "--content-1_about-md",
-      "indent": 0,
-      "location": "./pages/1_about.md",
-      "slug": "about",
-      "order": 0,
-      "title": "About",
-      "description": "About",
-      "parent": null,
-      "metadata": {
-        "created": 1613427971,
-        "updated": 1613427971,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "About",
-        "slug": "about"
-      }
-    },
-    {
       "id": "--content-2_install-md",
       "indent": 0,
       "location": "./pages/2_install.md",
       "slug": "install",
-      "order": 1,
+      "order": 0,
       "title": "Installation",
       "description": "Installation",
       "parent": null,
       "metadata": {
-        "created": 1613427971,
-        "updated": 1613427971,
+        "created": 1613427997,
+        "updated": 1613427997,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -101,13 +77,13 @@
       "indent": 0,
       "location": "./pages/3_why.md",
       "slug": "why",
-      "order": 2,
+      "order": 1,
       "title": "Why HAX11ty",
       "description": "Why HAX11ty",
       "parent": null,
       "metadata": {
-        "created": 1613427971,
-        "updated": 1613427971,
+        "created": 1613427997,
+        "updated": 1613427997,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -124,14 +100,14 @@
       "id": "--content-4_something-md",
       "indent": 0,
       "location": "./pages/4_something.md",
-      "slug": "content/4_something/",
-      "order": 3,
-      "title": "Title",
-      "description": "Description",
+      "slug": "the-new-newness",
+      "order": 2,
+      "title": "A new file",
+      "description": "A new file",
       "parent": null,
       "metadata": {
-        "created": 1613427971,
-        "updated": 1613427971,
+        "created": 1613427997,
+        "updated": 1613427997,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -139,7 +115,33 @@
         "tags": [
           "content"
         ],
-        "layout": "content.liquid"
+        "layout": "content.liquid",
+        "title": "A new file",
+        "slug": "the-new-newness"
+      }
+    },
+    {
+      "id": "--content-1_about-md",
+      "indent": 0,
+      "location": "./pages/1_about.md",
+      "slug": "about",
+      "order": 3,
+      "title": "About",
+      "description": "About",
+      "parent": null,
+      "metadata": {
+        "created": 1613427997,
+        "updated": 1613427997,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "About",
+        "slug": "about"
       }
     }
   ]
