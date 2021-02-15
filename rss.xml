@@ -4,7 +4,7 @@
   <subtitle>HAX + 11ty = bliss</subtitle>
   <link href="https://btopro.github.io/hax11ty/rss.xml" rel="self"/>
   <link href="https://btopro.github.io/hax11ty"/>
-  <updated>2021-02-15T22:28:14.286+00:00</updated>
+  <updated>2021-02-15T22:33:19.089+00:00</updated>
   <id>https://btopro.github.io/hax11ty</id>
   <author>
     <name>EdTechJoker</name>
@@ -14,7 +14,7 @@
   <entry>
     <title>About</title>
     <link href="https://btopro.github.io/hax11ty/content/1_about/"/>
-    <updated>2021-02-15T22:28:14.286+00:00</updated>
+    <updated>2021-02-15T22:33:19.089+00:00</updated>
     <id>https://btopro.github.io/hax11ty/content/1_about/</id>
     <content type="html">&lt;p&gt;This is an example of how we can modify a website and have our setup just...work when it comes to building. This is CI in action&lt;/p&gt;
 </content>
@@ -23,7 +23,7 @@
   <entry>
     <title>Installation</title>
     <link href="https://btopro.github.io/hax11ty/content/2_install/"/>
-    <updated>2021-02-15T22:28:14.286+00:00</updated>
+    <updated>2021-02-15T22:33:19.089+00:00</updated>
     <id>https://btopro.github.io/hax11ty/content/2_install/</id>
     <content type="html">&lt;code-sample copy-clipboard-button=&quot;&quot;&gt;
 &lt;template&gt;
@@ -40,7 +40,7 @@
   <entry>
     <title>Why HAX11ty</title>
     <link href="https://btopro.github.io/hax11ty/content/3_why/"/>
-    <updated>2021-02-15T22:28:14.286+00:00</updated>
+    <updated>2021-02-15T22:33:19.089+00:00</updated>
     <id>https://btopro.github.io/hax11ty/content/3_why/</id>
     <content type="html">&lt;p&gt;&lt;ul&gt;
     &lt;li&gt;Power of &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;11ty&lt;/a&gt; for publishing static / high SEO&lt;/li&gt;
@@ -65,7 +65,7 @@
   <entry>
     <title>A new file</title>
     <link href="https://btopro.github.io/hax11ty/content/4_something/"/>
-    <updated>2021-02-15T22:28:14.286+00:00</updated>
+    <updated>2021-02-15T22:33:19.089+00:00</updated>
     <id>https://btopro.github.io/hax11ty/content/4_something/</id>
     <content type="html">&lt;p&gt;This is a new file&lt;/p&gt;
 &lt;ul&gt;
