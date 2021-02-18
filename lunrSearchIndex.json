@@ -12,8 +12,8 @@
    "title":"About",
    "created": "",
    "location":"/hax11ty/content/1_about/",
-   "description":"This is an example of how we can modify a website and have our setup just...work when it comes to building. This is CI in action",
-   "text":"This is an example of how we can modify a website and have our setup just...work when it comes to building. This is CI in action"
+   "description":"This is an example of how we can modify a website and have our setup just...work when it comes to building. This is CI in actionThis is happening live for class today!",
+   "text":"This is an example of how we can modify a website and have our setup just...work when it comes to building. This is CI in actionThis is happening live for class today!"
   },
   {
    "id":"Installation",

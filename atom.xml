@@ -3,7 +3,7 @@
   <title>HAX11TY doc site</title>
   <link href="https://btopro.github.io/hax11ty/atom.xml" rel="self" />
   <subtitle>HAX + 11ty = bliss</subtitle>
-  <updated>2021-02-15T22:33:19.089+00:00</updated>
+  <updated>2021-02-18T17:29:48.603+00:00</updated>
   <author>
       <name>EdTechJoker</name>
   </author>
@@ -11,20 +11,21 @@
   <entry>
     <title>About</title>
     <id>https://btopro.github.io/hax11ty/content/1_about/</id>
-    <updated>2021-02-15T22:33:19.089+00:00</updated>
-    <published>2021-02-15T22:33:19.089+00:00</published>
+    <updated>2021-02-18T17:29:48.603+00:00</updated>
+    <published>2021-02-18T17:29:48.603+00:00</published>
     <summary></summary>
     <link href="https://btopro.github.io/hax11ty/content/1_about/"/>
     <content type="html">
       &lt;p&gt;This is an example of how we can modify a website and have our setup just...work when it comes to building. This is CI in action&lt;/p&gt;
+&lt;p&gt;This is happening live for class today!&lt;/p&gt;
 
     </content>
   </entry>
   <entry>
     <title>Installation</title>
     <id>https://btopro.github.io/hax11ty/content/2_install/</id>
-    <updated>2021-02-15T22:33:19.089+00:00</updated>
-    <published>2021-02-15T22:33:19.089+00:00</published>
+    <updated>2021-02-18T17:29:48.603+00:00</updated>
+    <published>2021-02-18T17:29:48.603+00:00</published>
     <summary></summary>
     <link href="https://btopro.github.io/hax11ty/content/2_install/"/>
     <content type="html">
@@ -43,8 +44,8 @@
   <entry>
     <title>Why HAX11ty</title>
     <id>https://btopro.github.io/hax11ty/content/3_why/</id>
-    <updated>2021-02-15T22:33:19.089+00:00</updated>
-    <published>2021-02-15T22:33:19.089+00:00</published>
+    <updated>2021-02-18T17:29:48.603+00:00</updated>
+    <published>2021-02-18T17:29:48.603+00:00</published>
     <summary></summary>
     <link href="https://btopro.github.io/hax11ty/content/3_why/"/>
     <content type="html">
@@ -71,8 +72,8 @@
   <entry>
     <title>A new file</title>
     <id>https://btopro.github.io/hax11ty/content/4_something/</id>
-    <updated>2021-02-15T22:33:19.089+00:00</updated>
-    <published>2021-02-15T22:33:19.089+00:00</published>
+    <updated>2021-02-18T17:29:48.603+00:00</updated>
+    <published>2021-02-18T17:29:48.603+00:00</published>
     <summary></summary>
     <link href="https://btopro.github.io/hax11ty/content/4_something/"/>
     <content type="html">

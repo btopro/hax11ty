@@ -1,5 +1,5 @@
 {
-  "id": "#f76d1558-76dd-91ee-5a7f-92737d31e499",
+  "id": "#a0e9d1af-6bf5-0d5c-98de-4bbf58788acb",
   "title": "HAX11TY doc site",
   "author": "EdTechJoker",
   "description": "HAX + 11ty = bliss",
@@ -13,8 +13,8 @@
     },
     "site": {
       "name": "elmsln",
-      "created": 1613428419861,
-      "updated": 1613428419861,
+      "created": 1613669415374,
+      "updated": 1613669415374,
       "git": {
         "autoPush": false,
         "branch": "master",
@@ -58,8 +58,8 @@
       "description": "About",
       "parent": null,
       "metadata": {
-        "created": 1613428399,
-        "updated": 1613428399,
+        "created": 1613669389,
+        "updated": 1613669389,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -73,17 +73,41 @@
       }
     },
     {
+      "id": "--content-2_install-md",
+      "indent": 0,
+      "location": "./pages/2_install.md",
+      "slug": "install",
+      "order": 1,
+      "title": "Installation",
+      "description": "Installation",
+      "parent": null,
+      "metadata": {
+        "created": 1613669389,
+        "updated": 1613669389,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Installation",
+        "slug": "install"
+      }
+    },
+    {
       "id": "--content-3_why-md",
       "indent": 0,
       "location": "./pages/3_why.md",
       "slug": "why",
-      "order": 1,
+      "order": 2,
       "title": "Why HAX11ty",
       "description": "Why HAX11ty",
       "parent": null,
       "metadata": {
-        "created": 1613428399,
-        "updated": 1613428399,
+        "created": 1613669389,
+        "updated": 1613669389,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -101,13 +125,13 @@
       "indent": 0,
       "location": "./pages/4_something.md",
       "slug": "the-new-newness",
-      "order": 2,
+      "order": 3,
       "title": "A new file",
       "description": "A new file",
       "parent": null,
       "metadata": {
-        "created": 1613428399,
-        "updated": 1613428399,
+        "created": 1613669389,
+        "updated": 1613669389,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -118,30 +142,6 @@
         "layout": "content.liquid",
         "title": "A new file",
         "slug": "the-new-newness"
-      }
-    },
-    {
-      "id": "--content-2_install-md",
-      "indent": 0,
-      "location": "./pages/2_install.md",
-      "slug": "install",
-      "order": 3,
-      "title": "Installation",
-      "description": "Installation",
-      "parent": null,
-      "metadata": {
-        "created": 1613428399,
-        "updated": 1613428399,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Installation",
-        "slug": "install"
       }
     }
   ]
